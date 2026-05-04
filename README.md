@@ -16,5 +16,11 @@ Pressions partielles.ipynb :
 # Usage
 Run the main scripts with Python 3 (The scripts won't actually do anything since it needs the data to work).
 
+# Requirements
+- numpy
+- pandas
+- matplotlib
+- scipy
+
 # Author
 Clément Gauthier
